@@ -1,0 +1,15 @@
+.data
+str: .word 0x0000, 0x1111, 0x2222, 0x3333, 0x4444, 0x5555, 0x6666, 0x7777, 0x8888, 0x9999
+
+.text
+.global main
+main:
+  mov r2, 
+
+
+  
+
+
+  svc #0
+
+.section .note.GNU-stack
